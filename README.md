@@ -15,9 +15,13 @@ The game includes 2 selection of music, both with different set of difficulties.
 
 # Getting Started
 
-    Clone the repository using git clone https://github.com/jdfung/Unity-RhythmKnight.git
-    Open the project in Unity Engine
-    Build and run the project on your preferred platform
+-    Clone the repository using git clone https://github.com/jdfung/Unity-RhythmKnight.git
+-    Open the project in Unity Engine
+-    Build and run the project on your preferred platform
+
+    OR
+    
+- Download the executables and run it on your PC
     
 # What the game looks like
 ![Main menu](https://github.com/jdfung/Unity-RhythmKnight/blob/main/Game-in-action_screenshots/Main_menu.JPG)
