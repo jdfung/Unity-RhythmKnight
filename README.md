@@ -29,4 +29,8 @@ The game includes 2 selection of music, both with different set of difficulties.
 ![Gameplay 1](https://github.com/jdfung/Unity-RhythmKnight/blob/main/Game-in-action_screenshots/Gameplay_level1.JPG)
 ![Gameplay 2](https://github.com/jdfung/Unity-RhythmKnight/blob/main/Game-in-action_screenshots/Gameplay_level2.JPG)
 
+# Gameplay video
+<a href="https://youtu.be/kXz699NAd8E" target="_blank"><img src="http://img.youtube.com/vi/kXz699NAd8E/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 If you have any questions or issues with the game, please don't hesitate to raise an issue in the Github repository. I hope you enjoy playing my Unity 2D Rhythm Game!
