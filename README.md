@@ -20,7 +20,7 @@ The game includes 2 selection of music, both with different set of difficulties.
     Build and run the project on your preferred platform
     
 # What the game looks like
-![Main menu](https://github.com/jdfung/Unity-RhythmKnight/blob/main/Game-in-action_screenshots/Main_menu.JPG))
+![Main menu](https://github.com/jdfung/Unity-RhythmKnight/blob/main/Game-in-action_screenshots/Main_menu.JPG)
 ![Song Selection](https://github.com/jdfung/Unity-RhythmKnight/blob/main/Game-in-action_screenshots/Level_selection.JPG)
 ![Gameplay 1](https://github.com/jdfung/Unity-RhythmKnight/blob/main/Game-in-action_screenshots/Gameplay_level1.JPG)
 ![Gameplay 2](https://github.com/jdfung/Unity-RhythmKnight/blob/main/Game-in-action_screenshots/Gameplay_level2.JPG)
